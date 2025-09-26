@@ -1,4 +1,5 @@
 print("Hello world")
+print("Hello everyone")
 '''
 git config --global user.name "Hai Vy"
 
